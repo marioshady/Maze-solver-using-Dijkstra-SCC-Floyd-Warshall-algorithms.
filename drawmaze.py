@@ -20,3 +20,5 @@ for r in range(h):
     for c in range(w):
         print(nim[r,c],end='')
     print()
+
+#anything 2
